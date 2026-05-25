@@ -1,4 +1,4 @@
-# Food Safety API - Extended Version
+# Food Safety API 
 
 ## Project Overview
 
