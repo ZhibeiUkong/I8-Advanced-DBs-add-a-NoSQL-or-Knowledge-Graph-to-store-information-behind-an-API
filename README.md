@@ -190,9 +190,7 @@ These added functions make the API more useful because users can retrieve desire
 ## Video Tutorial
 
 Second video tutorial link:
-
-[Insert second video link here]
-
+https://drive.google.com/file/d/1BKPs6dJ9WncHZdyj48Aih2p5b4LcKDOW/view?usp=sharing
 ## Notes
 
 The Flask server must be running before ngrok is started. The ngrok terminal must remain open because the public URL only works while the ngrok session is active. If the ngrok URL changes, the `base_url` in `test_api.py` and the ngrok examples in this README should be updated.
